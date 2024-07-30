@@ -7,8 +7,7 @@ The **Expense_Calculater** is a React-based application designed to help users t
 ## Features
 
 - **Add Expense:** Easily input expense details including amount, category, and date.
-- **View Summary:** See a summary of total expenses, categorized spending, and monthly trends.
-- **Edit and Delete:** Modify or remove expenses as needed.
+- **View Summary:** See a summary of total expenses, categorized spending, and monthly trends with animation.
 - **Responsive Design:** Accessible and usable on various devices including mobile and desktop.
 
 
@@ -28,6 +27,6 @@ Make sure you have Node.js installed. Then run:
 
 **npm install**
 
-2. **Start the Development Server:**
+3. **Start the Development Server:**
 Open your browser and go to http://localhost:3000 to see the app in action.
   **npm start**
